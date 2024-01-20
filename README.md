@@ -9,10 +9,9 @@ Hello! 👋 I'm Mokonyana Ntsoereng, a passionate software engineering student a
 - 🌱 Currently focusing on web development.
 - 😄 Pronouns: He/Him.
 
-## Skills
-
-- 💻 Languages: HTML, CSS, JavaScript,
-- 🛠️ Technologies and Tools: ReactJs,Node Js, Bootstrap.
+##  Technologies and Tools
+- 💻 Languages: HTML, CSS, JavaScript
+- 🛠️ ReactJs,Node Js, Bootstrap, MongoDb
 
 ## Connect with Me
 
