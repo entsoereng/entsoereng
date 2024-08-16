@@ -1,6 +1,6 @@
 # Mokonyana Ntsoereng
 
-Hello! 👋 I'm Mokonyana Ntsoereng, a passionate software engineering student at Holberton School Lesotho, with a keen interest in web development. Welcome to my GitHub profile!
+Hello! 👋 I'm Mokonyana Ntsoereng, a passionate software engineering from Holberton School, with a keen interest in web development. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -10,13 +10,13 @@ Hello! 👋 I'm Mokonyana Ntsoereng, a passionate software engineering student a
 - 😄 Pronouns: He/Him.
 
 ##  Technologies and Tools
-- 💻 Languages: HTML, CSS, JavaScript
-- 🛠️ ReactJs,Node Js, Bootstrap, MongoDb
+- 💻 Languages: JavaScript, Tailwindcss,
+- 🛠️ ReactJs,NodeJs,Nextjs, Prisma, Typescript, MongoDb
 
 ## Connect with Me
 
-- 📧 Email: [entsoereng@aol.com, mkntsoereng@gmail.com]
+- 📧 Email: [mkntsoereng@gmail.com]
 - 💼 LinkedIn: [Mokonyana Emmanuel Ntsoereng]
-- 🐦 Twitter: [entsoereng]
+- 🐦 X: [@mkntsoereng]
 
 Feel free to explore my repositories, and let's connect and collaborate!
