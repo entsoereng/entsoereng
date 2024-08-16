@@ -16,7 +16,7 @@ Hello! 👋 I'm Mokonyana Ntsoereng, a passionate software engineering from Holb
 ## Connect with Me
 
 - 📧 Email: [mkntsoereng@gmail.com]
-- 💼 LinkedIn: [Mokonyana Emmanuel Ntsoereng]
+- 💼 LinkedIn: [https://www.linkedin.com/in/mokonyana-ntsoereng-b4367795/]
 - 🐦 X: [@mkntsoereng]
 
 Feel free to explore my repositories, and let's connect and collaborate!
