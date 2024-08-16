@@ -1,12 +1,12 @@
 # Mokonyana Ntsoereng
 
-Hello! 👋 I'm Mokonyana Ntsoereng, a passionate software engineering from Holberton School, with a keen interest in web development. Welcome to my GitHub profile!
+Hello! 👋 I'm Mokonyana Ntsoereng, a passionate software engineering from Holberton School, with a keen interest in Full-Stack Development. Welcome to my GitHub profile!
 
 ## About Me
 
 - 🌍 I'm based in Lesotho.
-- 🎓 Studying software engineering at Holberton School Lesotho.
-- 🌱 Currently focusing on web development.
+- 🎓 Studied software engineering at Holberton School.
+- 🌱 Currently focusing on Full-Stack Development.
 - 😄 Pronouns: He/Him.
 
 ##  Technologies and Tools
